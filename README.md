@@ -1,4 +1,4 @@
-[US English](./README.md) | [EG العربية](./README.ar.md)
+[🇬🇧 English](./README.md) | [🇸🇦 العربية](./README.ar.md)
 
 # Ames Housing — Data Cleaning, Transformation & Exploratory Analysis
 
