@@ -1,4 +1,4 @@
-[🇬🇧 English](./README.md) | [🇸🇦 العربية](./README.ar.md)
+[US English](./README.md) | [EG العربية](./README.ar.md)
 
 # Ames Housing — تنظيف وتحويل وتحليل بيانات أسعار العقارات
 
